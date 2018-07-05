@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<string name="app_name" translatable="false">HushCity</string>-->
+    
+    <string name="font_HelveticaNeue">HelveticaNeue</string>
+    <string name="font_HelveticaNeue_Medium">HelveticaNeue-Medium</string>
+    <string name="font_HelveticaNeue_Bold">HelveticaNeue-Bold</string>
+</resources>

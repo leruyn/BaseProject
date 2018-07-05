@@ -10,6 +10,6 @@ public class Constant {
 
     public static final boolean DEBUG = true;
 
-    public static final String DOMAIN = "http://webhook.kranse.com";
+    public static final String DOMAIN = "https://staginghushcity.edge-works.net";
 
 }
